@@ -1,9 +1,9 @@
-#### Assignment
+# Assignment
 
 Create an Amazon-like storefront with the MySQL skills you learned this unit. The app will take in orders from customers and deplete stock from the store's inventory. 
 
 
-#### Technologies Used:
+### Technologies Used:
 
 * Javascript
 * nodeJS
@@ -15,7 +15,8 @@ Create an Amazon-like storefront with the MySQL skills you learned this unit. Th
 - [colors/safe](https://github.com/Marak/colors.js)
 
 
-#### Bamazon Customer Portal
+
+## Bamazon Customer Portal
 
 The Bamazon Customer Portal allows users to view a table of available items to buy.  The user will be prompted to enter the Item ID number and the quantity to purchase.  If the current stock is greater than or equal to the requested quantity, the order will be completed and the user will see the total amount of their purchase.
 
@@ -28,7 +29,7 @@ If the current stock is less than the requested quantity, the user will receive 
 
 
 
-#### Bamazon Manager Portal
+## Bamazon Manager Portal
 
 The Bamazon Manager Portal provides a Manager's view of the current inventory.  The inventory will also update after purchases are made through the customer portal.  The user will be prompted to choose from the following Manager options:
 
@@ -38,24 +39,24 @@ The Bamazon Manager Portal provides a Manager's view of the current inventory.  
 * Add a new product
 
 
-#### Manager Options 1
+### Manager Options 1
 
 The first option allows the user to see the list of products that are currently for sale, what department the item belongs to, product price, and how much stock is left for that product.  The inventory will also update after a successful purchase.
 
-### Inventory BEFORE purchasing Item Id #67891
+#### Inventory BEFORE purchasing Item Id #67891
 <img width="831" alt="pic03_invbeforepurchase" src="https://user-images.githubusercontent.com/38221513/48067695-e18d0d00-e19e-11e8-8cab-ec42bc965bd9.png">
 
 
-### PURCHASE 4 of Item Id #67891
+#### PURCHASE 4 of Item Id #67891
 <img width="624" alt="pic04_invpurchase" src="https://user-images.githubusercontent.com/38221513/48067722-f5387380-e19e-11e8-8934-c3b62a6fac1d.png">
 
 
-### Inventory AFTER purchasing 4 of Item Id #67891
+#### Inventory AFTER purchasing 4 of Item Id #67891
 <img width="829" alt="pic05_invafterpurchase" src="https://user-images.githubusercontent.com/38221513/48067895-6c6e0780-e19f-11e8-865b-3826aae5a575.png">
 
 
 
-#### Manager Options 2, 3, & 4
+### Manager Options 2, 3, & 4
 
 The second option allows the user to see a list of all inventory items that have less than 5 items in stock.  If there are no products that meet this criteria, the user will see an empty table.
 
@@ -74,6 +75,6 @@ The last option allows the user to add a new product to the inventory.  Prompts 
 
 
 
-#### Thank You
+## Thank You
 
 Many thanks to the classmates that assisted with this assigment!
