@@ -19,7 +19,7 @@ Create an Amazon-like storefront with the MySQL skills you learned this unit. Th
 
 The Bamazon Customer Portal allows users to view a table of available items to buy.  The user will be prompted to enter the Item id number and the quantity to purchase.  If the current stock is greater than or equal to the requested quantity, the order will be completed and the user will see the total amount of their purchase.
 
-![Customer Portal](Images/Pic01_PurchSuccess.png)
+<img width="629" alt="pic01_purchsuccess" src="https://user-images.githubusercontent.com/38221513/48067423-47c56000-e19e-11e8-8a80-b40faf5b8221.png">
 
 
 If the current stock is less than the requested quantity, the user will receive a message in red letters stating, "Sorry, the requested quantity of this item exceeds our current inventory."
