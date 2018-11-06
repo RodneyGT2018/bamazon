@@ -58,7 +58,7 @@ The first option allows the user to see the list of products that are currently 
 
 ### Manager Options 2, 3, & 4
 
-The second option allows the user to see a list of all inventory items that have less than 5 items in stock.  If there are no products that meet this criteria, the user will see an empty table.
+The second option allows the user to see a list of all inventory items that have less than 7 items in stock.  If there are no products that meet this criteria, the user will see an empty table.
 
 <img width="814" alt="pic06_lowinv" src="https://user-images.githubusercontent.com/38221513/48067996-a8a16800-e19f-11e8-8166-5ba41e2c086c.png">
 
