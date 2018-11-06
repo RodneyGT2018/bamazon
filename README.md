@@ -39,7 +39,7 @@ The Bamazon Manager Portal provides a Manager's view of the current inventory.  
 * Add a new product
 
 
-### Manager Options 1
+### Manager Option 1
 
 The first option allows the user to see the list of products that are currently for sale, what department the item belongs to, product price, and how much stock is left for that product.  The inventory will also update after a successful purchase.
 
